@@ -19,6 +19,8 @@ header{
 h1{
     padding-bottom: 0.1em;
 }
+a:hover{
+    background-color:#3f2a52;}
 
 p,h1,h2,h3{
     font-family: "share tech";
